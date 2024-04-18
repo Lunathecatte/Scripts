@@ -1,2 +1,2 @@
 # Powershell
-Personal mosed used Powershell scripts
+Here you will find my personally most used PowerShell scripts, applicable for either work environments or personal use.
