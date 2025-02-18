@@ -1,5 +1,0 @@
-set-executionpolicy remotesigned
-Install-Module PSWindowsUpdate
-Import-Module PSWindowsUpdate
-Get-WindowsUpdate
-Install-WindowsUpdate
