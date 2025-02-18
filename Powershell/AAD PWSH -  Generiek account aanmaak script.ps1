@@ -1,4 +1,4 @@
-# # # Generiek O365 account aanmaak Script
+# # # Generiek O365 Indienst Script
 # Door LunatheCatte
 # Versiebeheer:
 # V0.1 - Eerste opzet  
@@ -12,7 +12,7 @@
 # V0.8 - Eerste opzet mbt licentiegroepen
 
 clear-host
-Write-host "# # # # Account aanmaak script  - Versie 0.7.1 # # # #" -ForegroundColor Green
+Write-host "# # # # Account aanmaak script  - Versie 0.8 # # # #" -ForegroundColor Green
 Write-host "Zorg dat er een licentie beschikbaar is bij de klant VOORDAT je dit script draait" -ForegroundColor Yellow
 Write-host "Draai dit script ALTIJD in de 'oude' powershell, NIET de v7" -ForegroundColor RED
 Start-sleep 3
