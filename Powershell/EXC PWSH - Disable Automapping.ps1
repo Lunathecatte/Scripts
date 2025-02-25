@@ -1,6 +1,7 @@
 # Script om automapping uit te schakelen voor een gedeelde mailbox in Exchange Online
 # V0.1
 Connect-exchangeonline
+cls
 # Vraag om gedeelde mailbox
 $SharedMailbox = Read-Host -Prompt "Voer de naam in van de gedeelde mailbox waarvoor je automapping wilt bijwerken"
 
